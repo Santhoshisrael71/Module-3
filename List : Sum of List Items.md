@@ -16,4 +16,4 @@ print(sum(items))
 ## Output
 ![Screenshot 2025-04-29 120233](https://github.com/user-attachments/assets/c459f7ba-80e3-4ba0-8dfc-fe6e998a5a2b)
 ## Result
-Thus, the python program was executed successfully
+Python program was executed successfully
